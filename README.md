@@ -37,6 +37,3 @@ The dataset includes anonymized features obtained with PCA transformation (V1 to
 
 
 
-If you want, I can also help you create a unified README for all projects or generate a requirements file.
-
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/79476227/8a330ae7-f929-4ef3-8df4-292ee3ab5f65/Task-4-Credit-card-fraud-detection.ipynb
